@@ -1,0 +1,2 @@
+# ScoreCat
+Concatenate binding scores
