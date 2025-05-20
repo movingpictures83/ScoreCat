@@ -1,0 +1,6 @@
+out_file	PPI.ppi.csv
+scorefile	native.torches.pkl
+ppifile	PPI.txt
+quality	CAPRI_quality
+score	PIsToN_score
+ppi	PPI
